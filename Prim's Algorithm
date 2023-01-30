@@ -39,4 +39,4 @@ int main() {
 	printf("\n Minimun cost=%d",mincost);
 	getch();
 }
-Footer
+
